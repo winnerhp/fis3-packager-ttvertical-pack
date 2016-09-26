@@ -1,0 +1,25 @@
+{
+  "name": "fis3-packager-ttvertical-pack",
+  "version": "1.0.0",
+  "description": "搬运的fis打包插件",
+  "main": "index.js",
+  "dependencies": {
+    "source-map": "^0.5.6"
+  },
+  "devDependencies": {
+    "source-map": "^0.5.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winnerhp/fis3-packager-ttvertical-pack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winnerhp/fis3-packager-ttvertical-pack/issues"
+  },
+  "homepage": "https://github.com/winnerhp/fis3-packager-ttvertical-pack#readme"
+}
