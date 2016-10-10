@@ -26,16 +26,9 @@ var path = require('path');
 var _ = fis.util;
 
 module.exports = function(ret, pack, settings, opt) { 
-  console.log('++++++++++++++++++++')
-  // console.log(ret)
-  // console.log(pack)
-  // console.log(settings)
-  // console.log(opt)
-  console.log('++++++++++++++++++++')
-
 
   if (Object.keys(pack).length) {
-    fis.log.warn('`packTo` or `fis-pack.json` is useless while you are using `fis3-packager-deps-packs`');
+    fis.log.warn('`packTo` or `fis-pack.json` is useless while you are using `fis3-packager-ttvertical-pack`');
   }
 
   // 是否添加调试信息
